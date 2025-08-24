@@ -1,2 +1,2 @@
 # PythonLearning
-My Python learning journey from basics to ibraries
+My Python learning journey from basics to libraries
